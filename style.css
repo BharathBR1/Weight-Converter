@@ -1,0 +1,15 @@
+body{
+    margin: 70px;
+    background-color: brown;
+    color:aliceblue
+}
+
+.input{
+   margin:1.5rem 0;
+} 
+
+.card{
+    color:black;
+    margin-bottom: 20px;
+    width: inherit;
+}
